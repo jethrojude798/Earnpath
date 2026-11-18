@@ -1,0 +1,3 @@
+# Local Supabase CLI project configuration.
+# Hosted project linking is stored separately by the CLI and has not been done yet.
+project_id = "earnpath"
